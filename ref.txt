@@ -1,0 +1,16 @@
+100 numpy exercises (with solutions)
+https://github.com/rougier/numpy-100
+
+From Python to Numpy:
+https://www.labri.fr/perso/nrougier/from-python-to-numpy/
+
+Ten Simple Rules for Better Figures
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833
+
+SciPy.org
+https://www.scipy.org/
+
+Introduction to Numerical Computing with NumPy | SciPy 2019 
+https://www.youtube.com/watch?v=ZB7BZMhfPgk
+
+
